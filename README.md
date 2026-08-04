@@ -77,4 +77,5 @@ http://127.0.0.1:5000
 
 • Symptom-based disease prediction
 
-Disclaimer: This project is intended for educational and research purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Users should consult a qualified healthcare professional for medical concerns.
+## ⚠️ Disclaimer
+This project is intended for educational and research purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Users should consult a qualified healthcare professional for medical concerns.
