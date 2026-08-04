@@ -17,10 +17,15 @@ Real-time disease prediction with instant recommendations.
 #### Model Persistence: pickle
 ## Machine Learning Workflow
 • Data Collection & Preprocessing
+
 • Feature Engineering
+
 • Random Forest Model Training
+
 • Symptom Matching
+
 • Disease Prediction
+
 • Personalized Health Recommendations
 ## Installation & Setup
 #### Prerequisites
@@ -28,18 +33,13 @@ Real-time disease prediction with instant recommendations.
 • pip package manager
 
 #### Installation Steps
-
 1. ##### Clone the repository:
 git clone https://github.com/sohamvsonar/Disease-Prediction-and-Medical-Recommendation-System.git
-cd Disease-Prediction-and-Medical-Recommendation-System
-2. ##### Install required dependencies:
-
+cd Disease-Prediction-and-Medical-Recommendation-System                                                                                                                                                             2. ##### Install required dependencies:
 pip install -r requirements.txt
 3. ##### Run the Flask application:
-
 python main.py
 4. ##### Access the application: Open your web browser and navigate to:
-
 http://localhost:5000
 
 ## Applications
