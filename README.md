@@ -11,10 +11,15 @@ User-friendly web interface built with Flask.
 Real-time disease prediction with instant recommendations.
 ## Tech Stack
 Python
+
 Flask
+
 Scikit-learn
+
 Pandas
+
 NumPy
+
 FuzzyWuzzy
 HTML/CSS
 ## Machine Learning Workflow
