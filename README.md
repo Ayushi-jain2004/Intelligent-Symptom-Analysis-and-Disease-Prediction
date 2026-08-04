@@ -10,20 +10,13 @@ Recommends medications, precautions, diet plans, and workout suggestions.
 User-friendly web interface built with Flask.
 Real-time disease prediction with instant recommendations.
 ## Tech Stack
-Python
-
-Flask
-
-Scikit-learn
-
-Pandas
-
-NumPy
-
-FuzzyWuzzy
-HTML/CSS
+### Backend: Python, Flask
+### Machine Learning: scikit-learn, Random Forest Classifier
+#### Data Processing: pandas, numpy
+#### Frontend: HTML, CSS, Bootstrap 5
+##### Model Persistence: pickle
 ## Machine Learning Workflow
-Data Collection & Preprocessing
+## Data Collection & Preprocessing
 Feature Engineering
 Random Forest Model Training
 Symptom Matching
