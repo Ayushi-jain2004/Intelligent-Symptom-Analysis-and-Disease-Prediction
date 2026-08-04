@@ -24,20 +24,21 @@ Real-time disease prediction with instant recommendations.
 • Personalized Health Recommendations
 ## Installation & Setup
 #### Prerequisites
-Python 3.7+
-pip package manager
-#### Installation Steps
-Clone the repository:
+• Python 3.7+
+• pip package manager
 
+#### Installation Steps
+
+1. ##### Clone the repository:
 git clone https://github.com/sohamvsonar/Disease-Prediction-and-Medical-Recommendation-System.git
 cd Disease-Prediction-and-Medical-Recommendation-System
-Install required dependencies:
+2. ##### Install required dependencies:
 
 pip install -r requirements.txt
-Run the Flask application:
+3. ##### Run the Flask application:
 
 python main.py
-Access the application: Open your web browser and navigate to:
+4. ##### Access the application: Open your web browser and navigate to:
 
 http://localhost:5000
 
