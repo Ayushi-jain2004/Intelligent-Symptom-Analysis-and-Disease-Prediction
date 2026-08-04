@@ -16,16 +16,35 @@ Real-time disease prediction with instant recommendations.
 #### Frontend: HTML, CSS, Bootstrap 5
 #### Model Persistence: pickle
 ## Machine Learning Workflow
-## Data Collection & Preprocessing
-Feature Engineering
-Random Forest Model Training
-Symptom Matching
-Disease Prediction
-Personalized Health Recommendations
+• Data Collection & Preprocessing
+• Feature Engineering
+• Random Forest Model Training
+• Symptom Matching
+• Disease Prediction
+• Personalized Health Recommendations
+## Installation & Setup
+#### Prerequisites
+Python 3.7+
+pip package manager
+#### Installation Steps
+Clone the repository:
+
+git clone https://github.com/sohamvsonar/Disease-Prediction-and-Medical-Recommendation-System.git
+cd Disease-Prediction-and-Medical-Recommendation-System
+Install required dependencies:
+
+pip install -r requirements.txt
+Run the Flask application:
+
+python main.py
+Access the application: Open your web browser and navigate to:
+
+http://localhost:5000
+
 ## Applications
-Healthcare awareness
-Educational demonstrations
-Machine Learning portfolio project
-Symptom-based disease prediction
+• Healthcare awareness
+• Educational demonstrations
+• Machine Learning portfolio project
+• Symptom-based disease prediction
 
 Disclaimer: This project is intended for educational and research purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Users should consult a qualified healthcare professional for medical concerns.
