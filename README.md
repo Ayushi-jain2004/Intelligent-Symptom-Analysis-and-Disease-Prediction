@@ -35,7 +35,7 @@ Real-time disease prediction with instant recommendations.
 #### Installation Steps
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Intelligent-Symptom-Analysis-and-Disease-Prediction.git
+git clone https://github.com/Ayushi-jain2004/Intelligent-Symptom-Analysis-and-Disease-Prediction.git
 cd Intelligent-Symptom-Analysis-and-Disease-Prediction
 ```
 
